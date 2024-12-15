@@ -1,1 +1,1 @@
-# ml-project
+This Python script is about predicting stock prices using historical market data. It fetches data from Yahoo Finance, processes it to create features based on past trends, and trains a neural network model to predict future prices. The model uses the past five days' closing prices to predict the next day's closing price. Additionally, it provides insights into whether the stock price is expected to increase or decrease the next day. The script also visualizes actual vs. predicted prices, helping users understand the model's accuracy and performance.
